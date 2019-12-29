@@ -44,12 +44,12 @@ BlynkTimer timer;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "274872d6b2124334a5e77afd21c34c6d";
+char auth[] = "auth key";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "oneplus6t";
-char pass[] = "qwertyuiop";
+char ssid[] = "ssid";
+char pass[] = "pass";
 int a=A0;
 int val,led=2;
 
